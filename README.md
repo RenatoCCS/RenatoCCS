@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho ...
 - 🌱  Atualmente aprendendo JavaScript, HTML e CSS
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
