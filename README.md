@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Renato Calisto
 
-- 🔭 Atualmente trabalho ...
+
 - 🌱  Atualmente estudando JavaScript, HTML e CSS
 
 
