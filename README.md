@@ -1,6 +1,6 @@
 # Renato Calisto
-Eai pessoal, tenho 32 anos, moro em São Paulo/SP. <br>Sou iniciante no universo da programação e sou estudante de na Mais1Code.<br> Aprendendo  Javascript,  HTML5 e CSS3. <br>Formado em administração. <br>Trabalhando com planejamento estratégico em uma empresa de callcenter no momento.
-<br> E aos poucos fazendo a minha transição de carreira.
+👋 Eai pessoal, tenho 32 anos, moro em São Paulo/SP. <br> 📚 Sou estudante de programação com foco em front-end.<br> 🎓 Formado em administração. <br> 💻 Trabalho como assistente de mis jr com planejamento estratégico. <br> 🚀 E aos poucos fazendo a minha transição de carreira.
+<br> 
 
 # 🌐 Redes:
 <a href="https://www.linkedin.com/in/renatocalisto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
